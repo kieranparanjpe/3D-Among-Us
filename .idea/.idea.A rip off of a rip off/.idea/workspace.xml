@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18de1e11-6382-4447-afd0-cc963a463029" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/UtilityScripts/Debugging/PointedAtGameObjectInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/Editor/PhotonEditorUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerTasks.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DeadBody.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PhotonManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonView/SmoothSyncMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VotingUIObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UIManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MenuManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/UtilityScripts/Prototyping/OnClickRpc.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerImpostor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerCamera.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonPlayer/PhotonTeamsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SabotageManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AdminTable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonPlayer/PunTeams.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RoomTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonRealtime/Code/Player.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tasks/TaskUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonPlayer/Editor/PlayerNumberingInspector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tasks/Task.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/UtilityScripts/PhotonPlayer/Editor/PhotonTeamsManagerInspector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tasks/Tasks/TaskTimedButton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tasks/Tasks/TaskDivertPower.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tasks/Tasks/Keypad.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Demos/PunBasics-Tutorial/Scripts/PlayerAnimatorManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tasks/Tasks/TaskRefillGas.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tasks/Tasks/TaskCardSwipe.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tasks/Tasks/TaskMedBay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tasks/Tasks/TaskShields.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tasks/Sabotage/SabotageOxygen.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tasks/Sabotage/SabotageComms.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Tasks/Sabotage/SabotageReactor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/Simple/Components/ContactSystems/ContactTrigger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/62FFEEB7-EC02-4BEA-B61E-5FBF8D44AC5B/77/957a4c80/Boolean.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PunClasses.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PhotonNetwork.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/Enums.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/Simple/Core/NetObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/PhotonView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/Simple/Components/ContactSystems/SyncShoot/SyncCannon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Demos/DemoSlotRacer/Scripts/PlayerControl.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonChat/Demos/DemoChat/AppSettingsExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/Simple/Utilities/GhostWorld/GhostWorld.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/Views/PhotonRigidbodyView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/Code/Views/PhotonAnimatorView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUtilities/BitUtilities/BitUtilities.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/EE47BE73-F7EF-409C-A5E5-CE4B121745B7/78/27e807cb/Random.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/Simple/Utilities/Networking/GenericSpawnPoint.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUtilities/PackObject/CodeGen/TypeCatalogue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUtilities/TransformCrusher/ElementCrusher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUtilities/PackObject/CodeGen/GenerateTypeExtension.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/Simple/Components/ContactSystems/SyncVitals/SyncVitals.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Photon/PhotonUnityNetworking/UtilityScripts/Culling/CullingHandler.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/Lobby.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerImposter.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TaskData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VotingUIObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/DeadBody.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TaskWiring.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PhotonManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RoomTrigger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TaskUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sabotage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Task.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AdminTable.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tasks/SabotageReactor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerTasks.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tasks/Task.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerImpostor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tasks/SabotageLights.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SabotageManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tasks/TaskWiring.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tasks/TaskUI.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UIManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerCamera.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tasks/Keypad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tasks/SabotageOxygen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tasks/Sabotage/SabotageComms.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tasks/Tasks/Keypad.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tasks/Tasks/TaskRefillGas.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tasks/Tasks/TaskCardSwipe.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tasks/Tasks/TaskDivertPower.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tasks/Tasks/TaskShields.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tasks/Tasks/TaskTimedButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Tasks/Tasks/TaskMedBay.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerMovement.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1m025ZcVLz1RbGQ6BTTGq2TA6PB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CodeLensConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18de1e11-6382-4447-afd0-cc963a463029" name="Default Changelist" comment="" />
+      <created>1608616006138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608616006138</updated>
+      <workItem from="1608616011643" duration="1310000" />
+      <workItem from="1608617776880" duration="3712000" />
+      <workItem from="1608691046670" duration="11062000" />
+      <workItem from="1608717232453" duration="1436000" />
+      <workItem from="1608774979280" duration="8141000" />
+      <workItem from="1608849831437" duration="4712000" />
+      <workItem from="1608946272646" duration="415000" />
+      <workItem from="1609032215010" duration="1510000" />
+      <workItem from="1609116391609" duration="6666000" />
+      <workItem from="1609201694219" duration="1769000" />
+      <workItem from="1609217838022" duration="4363000" />
+      <workItem from="1609302568562" duration="3274000" />
+      <workItem from="1609552406637" duration="646000" />
+      <workItem from="1609639295962" duration="2704000" />
+      <workItem from="1609726189778" duration="1316000" />
+      <workItem from="1610238428034" duration="4647000" />
+      <workItem from="1611024970554" duration="6515000" />
+      <workItem from="1611091942256" duration="7278000" />
+      <workItem from="1611177153132" duration="6395000" />
+      <workItem from="1611199697262" duration="2249000" />
+      <workItem from="1611259606074" duration="3487000" />
+      <workItem from="1611350475622" duration="6890000" />
+      <workItem from="1615760399652" duration="8417000" />
+      <workItem from="1615848619917" duration="5878000" />
+      <workItem from="1615945553371" duration="5862000" />
+      <workItem from="1616110432900" duration="3138000" />
+      <workItem from="1616210184054" duration="621000" />
+      <workItem from="1616278743317" duration="4846000" />
+      <workItem from="1616714955671" duration="3759000" />
+      <workItem from="1616885672351" duration="8947000" />
+      <workItem from="1616900075448" duration="5998000" />
+      <workItem from="1617230265210" duration="3487000" />
+      <workItem from="1617315323225" duration="6577000" />
+      <workItem from="1617404525423" duration="12033000" />
+      <workItem from="1617576492158" duration="3845000" />
+      <workItem from="1617660821118" duration="6213000" />
+      <workItem from="1617923702522" duration="6565000" />
+      <workItem from="1618435057678" duration="1563000" />
+      <workItem from="1618439673686" duration="1577000" />
+      <workItem from="1622083745570" duration="2475000" />
+      <workItem from="1622265017546" duration="4315000" />
+      <workItem from="1641442061902" duration="893000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1130" y="-381" key="RiderGenerateDialog" timestamp="1609117585035">
+      <screen x="-1440" y="-1267" width="1152" height="2008" />
+    </state>
+    <state x="-1130" y="-381" key="RiderGenerateDialog/0.0.1920.1040/-1440.-1267.1152.2008@-1440.-1267.1152.2008" timestamp="1609117585035" />
+    <state x="-1355" y="-438" key="SettingsEditor" timestamp="1617234597502">
+      <screen x="-1440" y="-1267" width="1152" height="2008" />
+    </state>
+    <state x="-1355" y="-438" key="SettingsEditor/0.0.1920.1040/-1440.-1267.1152.2008@-1440.-1267.1152.2008" timestamp="1617234597502" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1615781679864">
+      <screen x="-1440" y="-1267" width="1152" height="2008" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1920.1040/-1440.-1267.1152.2008@-1440.-1267.1152.2008" timestamp="1615781679864" />
+    <state x="359" y="-19" width="1154" height="1075" maximized="true" key="dock-window-1" timestamp="1609129458528">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="359" y="-19" width="1154" height="1075" maximized="true" key="dock-window-1/0.0.1920.1040/-1440.-1267.1152.2008@-1440.-1267.1152.2008" timestamp="1609129458528" />
+    <state x="-1277" y="-369" width="798" height="538" key="find.popup" timestamp="1611178557358">
+      <screen x="-1440" y="-1267" width="1152" height="2008" />
+    </state>
+    <state x="-1277" y="-369" width="798" height="538" key="find.popup/0.0.1920.1040/-1440.-1267.1152.2008@-1440.-1267.1152.2008" timestamp="1611178557358" />
+    <state x="-1201" y="-523" width="672" height="678" key="search.everywhere.popup" timestamp="1609726297101">
+      <screen x="-1440" y="-1267" width="1152" height="2008" />
+    </state>
+    <state x="-1201" y="-523" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/-1440.-1267.1152.2008@-1440.-1267.1152.2008" timestamp="1609726297101" />
+  </component>
+</project>
